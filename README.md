@@ -42,11 +42,16 @@ https://developers.google.com/youtube/v3/getting-started
 
 ### YouTube player package
 
+https://pub.dev/packages/youtube_player_iframe
 https://medium.flutterdevs.com/youtube-player-in-flutter-9a1493bcb9ec
 
 ### Deploy to hosting
 
-`firebase deploy --only hosting:video-ui`, configuration in `firebase.json` file
+https://medium.com/flutter/must-try-use-firebase-to-host-your-flutter-app-on-the-web-852ee533a469
+
+`firebase deploy --only hosting:video-ui`
+
+configuration in `firebase.json` file
 
 https://video-ui.web.app/#/
 
