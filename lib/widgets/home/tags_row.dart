@@ -58,13 +58,15 @@ class TagsRow extends StatelessWidget {
               vertical: 10.0,
             ),
             decoration: BoxDecoration(
-                color: selected ? Colors.green.shade500 : Colors.green.shade900,
-                borderRadius: BorderRadius.circular(100.0)),
+                color: selected
+                    ? Colors.blueGrey.shade800
+                    : Colors.blueGrey.shade900,
+                borderRadius: BorderRadius.circular(2.0)),
             child: Text(
               tag,
               style: GoogleFonts.ubuntu(
                   fontSize: 14,
-                  color: selected ? Colors.white : Colors.green.shade200,
+                  color: selected ? Colors.white : Colors.blueGrey.shade200,
                   fontWeight: FontWeight.bold),
             ),
           ),
