@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
       title: 'Video UI',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: const StartUpView(),
       onGenerateRoute: generateRoute

@@ -59,3 +59,8 @@ https://video-ui.web.app/#/
 
 [development compiler]: https://dart.dev/tools/dartdevc
 [dart2js]: https://dart.dev/tools/dart2js
+
+
+https://blog.codemagic.io/flutter-web-getting-started-with-responsive-design/
+https://medium.com/tagmalogic/widgets-sizes-relative-to-screen-size-in-flutter-using-mediaquery-3f283afc64d6
+https://docs.flutter.dev/development/ui/layout/adaptive-responsive
